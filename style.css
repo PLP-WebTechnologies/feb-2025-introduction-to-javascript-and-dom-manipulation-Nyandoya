@@ -1,0 +1,65 @@
+/* Microsoft Edge Theme: Blue-Green modern */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+    color: #222;
+  }
+  
+  header {
+    background-color: #268ad6; /* Edge blue */
+    color: #0c4a4e;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #9dc1ea;
+    padding: 0.5rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav a {
+    color: #034374;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    background-color: #32a0a8; /* Teal accent */
+    color: rgb(12, 35, 102);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #28969d;
+  }
+  
+  footer {
+    background-color: #0078d4;
+    color: #0c4a4e;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  
